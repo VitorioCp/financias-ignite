@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Venda",
+      "price": 50,
+      "createdAt": "2022-07-25T19:36:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Desenvolvimento de app",
+      "type": "income",
+      "category": "trabalho",
+      "price": 500,
+      "createdAt": "2023-11-06T17:25:20.862Z"
+    },
+    {
+      "description": "Pao de queijo",
+      "type": "outcome",
+      "category": "Comida",
+      "price": 10,
+      "createdAt": "2023-11-06T17:54:33.246Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "type": "outcome",
+      "category": "trabalho",
+      "price": 50,
+      "createdAt": "2023-11-06T17:56:57.753Z",
+      "id": 5
+    }
+  ]
+}
